@@ -1,0 +1,44 @@
+@media screen and (max-width:400px) {
+   .language{
+       border-left: 0;
+   }
+
+}
+@media screen and (max-width:550px) {
+    nav {
+        text-align: center;
+    }
+    .resp1 li{
+        border-left: 0;
+    }
+    .labove{
+        justify-content: center;
+    }
+    .l{
+        width: 75%;
+        border-right: 0;
+    }
+    
+footer div p {
+    float:none;
+    padding-bottom: 2vh;
+}
+
+    
+}
+
+
+@media screen and (max-width:770px) {
+    .head1 h1 {
+        font-size: 40px;
+
+    }
+    .middlecontainer{
+        padding-bottom: 0;
+        justify-content: center;
+    }
+    .c{
+        width: 75%;
+    }
+
+}
